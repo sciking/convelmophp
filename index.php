@@ -183,6 +183,62 @@ echo("Infinitiv: $verbo"."<br> \n ");
 echo("Participi: $verbo"."uu <br> \n ");
 } 
 elseif ($conj == 4) { //coattivi
+
+echo "<b> INDICATIV <br> \n  </b>";
+echo "<b> Present <br> \n  </b>";
+echo ("Mi $verbo"."i <br> \n ");
+echo ("Ti te $verbo"."et<br> \n ");
+echo ("Lu el $verbo"."a<br> \n ");
+echo ("Num $verbo"."om<br> \n ");
+echo ("Vialter $verbo"."ii<br> \n ");
+echo ("Lor $verbo"."en<br> \n ");
+echo "<b> <br> \n  Imperfett <br> \n  </b>";
+echo ("Mi $verbo"."ivi <br> \n ");
+echo ("Ti te $verbo"."ivet<br> \n ");
+echo ("Lu el $verbo"."iva<br> \n ");
+echo ("Num $verbo"."ivom<br> \n ");
+echo ("Vialter $verbo"."ivov<br> \n ");
+echo ("Lor $verbo"."iven<br> \n ");
+echo "<b> <br> \n  Futur <br> \n  </b>";
+echo ("Mi $verbo"."iroo <br> \n ");
+echo ("Ti te $verbo"."iret<br> \n ");
+echo ("Lu el $verbo"."irà<br> \n ");
+echo ("Num $verbo"."iremm<br> \n ");
+echo ("Vialter $verbo"."irii<br> \n ");
+echo ("Lor $verbo"."irann<br> \n ");
+echo "<b> <br> \n  <br> \n  IMPERATIV <br> \n  </b>";
+echo "<b> Present <br> \n  </b>";
+echo (" $verbo"."a!<br> \n ");
+echo ("Che el $verbo"."a<br> \n ");
+echo ("$verbo"."imm!<br> \n ");
+echo ("Vialter $verbo"."ii!<br> \n ");
+echo ("Che $verbo"."en!<br> \n ");
+echo "<b>  <br> \n  CONGIONTIV <br> \n  </b>";
+echo "<b> Present <br> \n  </b>";
+echo ("Che mi $verbo"."i <br> \n ");
+echo ("Che ti te $verbo"."et<br> \n ");
+echo ("Che lu el $verbo"."a<br> \n ");
+echo ("Che num $verbo"."om<br> \n ");
+echo ("Che vialter $verbo"."ii<br> \n ");
+echo ("Che lor $verbo"."en<br> \n ");
+echo "<b> <br> \n  Passaa <br> \n  </b>";
+echo ("Che mi $verbo"."issi <br> \n ");
+echo ("Che ti te $verbo"."issett<br> \n ");
+echo ("Che lu el $verbo"."iss<br> \n ");
+echo ("Che num $verbo"."issom<br> \n ");
+echo ("Che vialter $verbo"."issov<br> \n ");
+echo ("Che lor $verbo"."issen<br> \n ");
+echo "<b>  <br> \n  CONDIZIONAL <br> \n  </b>";
+echo "<b> Present <br> \n  </b>";
+echo ("Mi $verbo"."aria <br> \n ");
+echo ("Ti te $verbo"."ariet<br> \n ");
+echo ("Lu el $verbo"."aria<br> \n ");
+echo ("Num $verbo"."ariom<br> \n ");
+echo ("Vialter $verbo"."ariov<br> \n ");
+echo ("Lor $verbo"."arien<br> \n ");
+echo (" <br> \n  <br> \n  <br> \n ");
+echo("Infinitiv: $verbo"."ì<br> \n ");
+echo("Participi: $verbo"."ii <br> \n ");
 } 
 elseif ($conj == 5) { //incoativi
 } 
