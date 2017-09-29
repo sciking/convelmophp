@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-16"> 
 <body>
 <h1> Coniugazion di verb lombard </h1>
-<i> Basaa in sul dialett classegh de la città de Milan </i> <hr>
+<i> Fondaa in sul dialett classich de Milan </i> <hr>
 <?php
 $verbo = $_GET['verbo'];
 $conj = $_GET[conj];
@@ -39,7 +39,7 @@ echo ("Che el $verbo"."a<br> \n ");
 echo ("$verbo"."emm!<br> \n ");
 echo ("Vialter $verbo"."ee!<br> \n ");
 echo ("Che $verbo"."en!<br> \n ");
-echo "<b>  <br> \n  CONGIUNTIV <br> \n  </b>";
+echo "<b>  <br> \n  CONGIONTIV <br> \n  </b>";
 echo "<b> Present <br> \n  </b>";
 echo ("Che mi $verbo"."i <br> \n ");
 echo ("Che ti te $verbo"."et<br> \n ");
@@ -96,7 +96,7 @@ echo ("Che el $verbo"."a<br> \n ");
 echo ("$verbo"."emm!<br> \n ");
 echo ("Vialter $verbo"."ee!<br> \n ");
 echo ("Che $verbo"."en!<br> \n ");
-echo "<b>  <br> \n  CONGIUNTIV <br> \n  </b>";
+echo "<b>  <br> \n  CONGIONTIV <br> \n  </b>";
 echo "<b> Present <br> \n  </b>";
 echo ("Che mi $verbo"."i <br> \n ");
 echo ("Che ti te $verbo"."et<br> \n ");
@@ -155,7 +155,7 @@ echo ("Che el $verbo"."a<br> \n ");
 echo ("$verbo"."emm!<br> \n ");
 echo ("Vialter $verbo"."ee!<br> \n ");
 echo ("Che $verbo"."en!<br> \n ");
-echo "<b>  <br> \n  CONGIUNTIV <br> \n  </b>";
+echo "<b>  <br> \n  CONGIONTIV <br> \n  </b>";
 echo "<b> Present <br> \n  </b>";
 echo ("Che mi $verbo"."i <br> \n ");
 echo ("Che ti te $verbo"."et<br> \n ");
